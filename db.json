@@ -1,0 +1,20 @@
+{
+    "calzones": [
+        {
+            "id": 0,
+            "name": "Which Came First?",
+            "type": "Calzone",
+            "restaurant": "Sauce on the Side",
+            "web": "sauceontheside.com/menus/",
+            "description": "Roasted Chicken, Applewood Smoked Bacon, Fresh Jalapeños, Egg Yolk, White Onion, Mozzarella, Smoked Chili Oil Salsa Verde"
+        },
+        {
+            "id": 1,
+            "name": "Dr. Dre",
+            "type": "Pizza",
+            "restaurant": "Dewy's Pizza",
+            "web": "deweyspizza.com/menu/from-the-kitchen/",
+            "description": "Olive Oil, Mozzarella, Green Peppers, Red Onions, Chicken, Bacon, House-Pickled Jalapeños, w/Tomatoes & Ranch after the bake"
+        }
+    ]
+}
